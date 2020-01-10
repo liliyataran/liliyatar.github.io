@@ -1,1 +1,1 @@
-{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA;EACE,UAAU,EAAA;;AAGZ;EACE,WAAW,EAAA","file":"main.css","sourcesContent":[".header {\n  color: red;\n}\n\n.page {\n  color: blue;\n}\n"]}
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA;EACE,UAAU,EAAA","file":"main.css","sourcesContent":[".header {\r\n  color: red;\r\n}\r\n"]}
